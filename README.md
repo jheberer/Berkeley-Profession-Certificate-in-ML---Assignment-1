@@ -21,12 +21,12 @@ Therefore, this analysis services as a potential way to drive massive ROIs for l
 ## Results
 
 Many datapoints influenced the acceptance rate of the Coffee House coupons:
-** destination: higher when there's no urgency
-** passanger: higher when there is a "social" passanger--friend or partner
-** weather: lower when snowy
-** time: higher in the early hours
-** expiration: higher when it doesn't expire right away
-** age: higher for below 21
-** education: highest for some high school, lowest for bachelor's
-** occupation: lots of variation--difficult to interpret based on this plot alone
-** monthly frequency of coffee house visits: higher if the driver visits coffee houses more frequently per month
+* destination: higher when there's no urgency
+* passanger: higher when there is a "social" passanger--friend or partner
+* weather: lower when snowy
+* time: higher in the early hours
+* expiration: higher when it doesn't expire right away
+* age: higher for below 21
+* education: highest for some high school, lowest for bachelor's
+* occupation: lots of variation--difficult to interpret based on this plot alone
+* monthly frequency of coffee house visits: higher if the driver visits coffee houses more frequently per month
