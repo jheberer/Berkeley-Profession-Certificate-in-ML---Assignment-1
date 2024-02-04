@@ -39,6 +39,7 @@ The below 21 age group accepted the coupons at an incredibly high rate, about 68
 
 There was an incredible variation in the acceptance rate amongst occupations. 
 The occupations that had the highest acceptance rates are traditionally associated with long days, which might explain the trend.
+
 ![image](https://github.com/jheberer/Berkeley-Profession-Certificate-in-ML---Assignment-1/assets/7217117/a609ae48-54b2-45bb-a741-4e44c3d11517)
 
 ## Recommendation
